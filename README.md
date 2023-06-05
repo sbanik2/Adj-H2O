@@ -1,4 +1,4 @@
-# AdjH2O
+# AdjH~2~O
 
 ## Description
 
