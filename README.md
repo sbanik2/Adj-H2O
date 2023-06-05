@@ -1,4 +1,4 @@
-# AdjH~2~O
+# AdjH<sup>2</sup>O
 
 ## Description
 
