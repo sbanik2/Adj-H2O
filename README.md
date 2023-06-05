@@ -3,7 +3,7 @@
 ## Description
 
 
-Python code for calculating the adjacency matrix of H2O, with and without considering the hydrogen bond in the atomic configuration, using the criteria defined in the [Paper](https://doi.org/10.1038/379055a0).
+Python code for calculating the adjacency matrix of H<sub>2</sub>O, with and without considering the hydrogen bond in the atomic configuration, using the criteria defined in the [Paper](https://doi.org/10.1038/379055a0).
 
 The code takes the atomic configurations as a [Pymatgen](https://pymatgen.org/)  structure
 
